@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">AppCompat22Test</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="toolbar_text">This is cool</string>
+
+    <array name="spinner_entries">
+        <item>This</item>
+        <item>is</item>
+        <item>so</item>
+        <item>cool</item>
+    </array>
+</resources>
